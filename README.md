@@ -39,6 +39,7 @@ Post-Training:
 Plotted the regression line on the dataset to assess the model’s performance.
 
 **Key Concepts**
+
 Linear Model: Maps input to output via a straight line.
 Loss Function: Measures prediction errors; MSE penalizes large errors.
 Optimizer: Adjusts weights to minimize loss via gradient descent.

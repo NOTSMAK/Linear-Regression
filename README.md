@@ -46,6 +46,7 @@ Optimizer: Adjusts weights to minimize loss via gradient descent.
 Training: Repeatedly refines the model using forward pass, loss computation, and backpropagation.
 
 **Takeaways and Next Steps**
+
 Linear regression is a foundational concept for understanding machine learning.
 Analyzing loss trends and adjusting hyperparameters like learning rate can improve training.
 Transitioning to real-world datasets, such as California Housing, highlights practical applications.
